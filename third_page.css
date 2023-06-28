@@ -1,0 +1,24 @@
+body {
+    background-color: #008C5E;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.pink {
+    font-size: medium;
+    width: 500px;
+}
+
+.z2 {
+    width: 490px;
+    height: 500px;
+    padding: 1px;
+    border: 1px solid red;
+}
+
+.z3 {
+    width: 490px;
+    height: 500px;
+    padding: 1px;
+    border: 1px solid red;
+}
